@@ -1,0 +1,13 @@
+.kotak {
+  height: 300px;
+  width: 300px;
+  background-color: aliceblue;
+  opacity: 0;
+  transition: 0.3s;
+}
+
+.kotak:hover {
+  opacity: 1;
+}
+
+/* masih banyak banget deh kalau mau dicoba sendiri aja */
